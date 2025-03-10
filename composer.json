@@ -1,0 +1,32 @@
+{
+    "name": "odoorbell/flarum-custom-font",
+    "description": "Use CSS to add custom fonts!",
+    "version": "0.1.0",
+    "license": "GPL-3.0",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "",
+            "email": "luyzm1@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/halinastudio/flarum-tionloong-ui-2/issues",
+        "source": "https://github.com/halinastudio/flarum-tionloong-ui-2",
+        "forum": "https://discuss.flarum.org.cn/d/16147"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "TionLoong-UI-2",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-book",
+                "backgroundColor": "#0076D4",
+                "color": "#fff"
+            }
+        }
+    }
+}
