@@ -1,2 +1,2 @@
-# flarum-custom-font
+# Custom Font
 Use CSS to add custom fonts!
